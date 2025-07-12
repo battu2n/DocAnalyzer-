@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-chroma
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-text-splitters
+langchain_groq
+huggingface-hub
+sentence-transformers
+pypdf
+pymupdf4llm
