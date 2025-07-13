@@ -49,23 +49,13 @@ Visual overview of how this app works:
 git clone https://github.com/battu2n/DocAnalyzer-.git
 cd DocAnalyzer-
 2. Install Requirements
-bash
-Copy
-Edit
 pip install -r requirements.txt
 3. Set up .env file
 Create a .env file in the root of the project with the following:
-
-env
-Copy
-Edit
 GROQ_API_KEY=your_groq_api_key_here
 Do not commit .env. It’s already in .gitignore.
 
 ▶️ Run the App
-bash
-Copy
-Edit
 streamlit run app.py
 Open in browser at: http://localhost:8501
 
